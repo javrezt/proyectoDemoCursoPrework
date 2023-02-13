@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h2{
+    font-weight: 400;
+}
+p{
+    font-weight: 300;
+}
+.container{
+    margin: 0 auto;
+    width: 90%;
+
+}
